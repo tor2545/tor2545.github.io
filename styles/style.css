@@ -4,8 +4,24 @@ html {
     background-color: blue;
 }
 
+.popular {
+    border:4px dotted red;
+}
+
+#Heading {
+    
+    color: rgb(13, 87, 184);
+    padding: 40px;
+    text-align: center;
+  }
 h1 {
+    color: rgb(7, 75, 202);
     font-size: 50px;
+    text-align: center;
+}
+
+h3 {
+    font-size: 30px;
     text-align: center;
 }
 
@@ -32,3 +48,4 @@ li {
     font-size: 20px;
     color: rgb(45, 15, 73);
 }
+
